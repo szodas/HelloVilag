@@ -1,5 +1,7 @@
 ﻿# DevOps - Beadandó
 
+![CI](https://github.com/szodas/HelloVilag/actions/workflows/ci.yml/badge.svg)
+
 Gyurenka Richárd - X3I5VM
 
 Egy egyszerű "Hello World" szintű app .NET 8-al
