@@ -34,5 +34,6 @@ ENV ASPNETCORE_URLS=http://0.0.0.0:8080
 
 docker run --rm -p 8080:8080 hellovilag:v1
 
-add CI badge
+add CI (Continious Integration) badge
+
 
